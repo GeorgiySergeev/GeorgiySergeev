@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, Im  Georgiy 👋 
+Student in GO IT. QA engineer, Full Stack Developer.
 
 <!--
 **GeorgiySergeev/GeorgiySergeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
